@@ -54,6 +54,9 @@ This project is built with:
 
 You can deploy this project using platforms like Netlify, Vercel, or any other hosting service that supports static site deployment.
 
+## Live Demo
+Check out the live version of this project: https://contest-harvester.netlify.app/
+
 ## I want to use a custom domain - is that possible?
 
 Yes, you can set up a custom domain by using Netlify or Vercel. Check their documentation for more details on configuring a custom domain.
